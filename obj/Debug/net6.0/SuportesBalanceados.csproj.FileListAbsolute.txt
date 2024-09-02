@@ -1,0 +1,15 @@
+C:\Users\Soaki\source\repos\SuportesBalanceados\bin\Debug\net6.0\SuportesBalanceados.exe
+C:\Users\Soaki\source\repos\SuportesBalanceados\bin\Debug\net6.0\SuportesBalanceados.deps.json
+C:\Users\Soaki\source\repos\SuportesBalanceados\bin\Debug\net6.0\SuportesBalanceados.runtimeconfig.json
+C:\Users\Soaki\source\repos\SuportesBalanceados\bin\Debug\net6.0\SuportesBalanceados.dll
+C:\Users\Soaki\source\repos\SuportesBalanceados\bin\Debug\net6.0\SuportesBalanceados.pdb
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\SuportesBalanceados.csproj.AssemblyReference.cache
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\SuportesBalanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\SuportesBalanceados.AssemblyInfoInputs.cache
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\SuportesBalanceados.AssemblyInfo.cs
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\SuportesBalanceados.csproj.CoreCompileInputs.cache
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\SuportesBalanceados.dll
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\refint\SuportesBalanceados.dll
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\SuportesBalanceados.pdb
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\SuportesBalanceados.genruntimeconfig.cache
+C:\Users\Soaki\source\repos\SuportesBalanceados\obj\Debug\net6.0\ref\SuportesBalanceados.dll

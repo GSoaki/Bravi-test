@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuportesBalanceados", "SuportesBalanceados.csproj", "{5CE7B556-8E26-45A3-8D47-75CACB53FF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE7B556-8E26-45A3-8D47-75CACB53FF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE7B556-8E26-45A3-8D47-75CACB53FF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE7B556-8E26-45A3-8D47-75CACB53FF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE7B556-8E26-45A3-8D47-75CACB53FF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD0636A0-9348-4BDE-A715-E79BB87A451B}
+	EndGlobalSection
+EndGlobal
